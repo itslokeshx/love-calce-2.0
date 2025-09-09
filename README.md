@@ -1,5 +1,3 @@
----
-
 # ❤️ Love Calculator 2.0
 
 A fun little web app that calculates the **love percentage** between you and your crush 💘.
